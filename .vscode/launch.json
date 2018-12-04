@@ -10,7 +10,7 @@
             "authentication": "Windows",
             "startupObjectType": "Page",
             "breakOnError": true,
-            "schemaUpdateMode": "Recreate"
+            "schemaUpdateMode":"Synchronize"
 
         }
     ]
